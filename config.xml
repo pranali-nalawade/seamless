@@ -30,6 +30,7 @@
     <!-- <gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0" /> -->
     <!-- <gap:plugin name="nl.x-services.plugins.socialsharing" version="4.3.8" /> -->
     <!-- <gap:plugin name="org.apache.cordova.camera" version="0.3.2" /> -->
+    <!--
     <gap:plugin name="org.apache.cordova.contacts" version="0.2.13" />
     <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
     <gap:plugin name="org.apache.cordova.dialogs" version="0.2.10" />
@@ -41,6 +42,7 @@
     <gap:plugin name="org.apache.cordova.network-information" version="0.2.12" />
     <gap:plugin name="org.apache.cordova.splashscreen" version="0.3.4" />
     <gap:plugin name="org.apache.cordova.vibration" version="0.3.11" />
+    -->
 
     <!-- to show app faster, set autohide to true. iOS only -->
     <preference name="AutoHideSplashScreen" value="false" />
